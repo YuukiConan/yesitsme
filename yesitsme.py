@@ -16,11 +16,6 @@ colorama.init(autoreset=True)
 
 
 def banner():
-    print("                _ _   _                ")
-    print("  _  _ ___ ___ (_) |_( )___  _ __  ___ ")
-    print(" | || / -_|_-< | |  _|/(_-< | '  \/ -_)")
-    print("  \_, \___/__/ |_|\__| /__/ |_|_|_\___|")
-    print("  |__/                                 ")
     print("\n\tTwitter: " + Fore.MAGENTA + "@blackeko5")
 
 
@@ -242,3 +237,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
